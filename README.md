@@ -17,22 +17,22 @@ Part-A:
 - 3a, Retiming
 - 3b/4a, Unfolding
 - 4b, Folding
-- 5. Fast convolution
+- 5, Fast convolution
 - 6, Systolic Architectures
 - 7, Parallel FIR Filter Architectures
 - 8, Pipeline Look-Ahead Techniques and Applications
-- 9. Bit-level Arithmetic Architectures
+- 9, Bit-level Arithmetic Architectures
 - 10, Redundant Arithmetic
 - 11, Synchronous, Wave, and Asynchronous Pipelines
 - 12, Numerical Strength Reduction
 - 13, Low Power Design   
 
 Part-B    
-- 1a. Fast Addition
-- 1b.Binary Multiplication
-- 2. DRAM  and SRAM Design
-- 3. Classic High-Speed Design Examples
-- 4. Classic Low-Power Design Examples
+- 1a, Fast Addition
+- 1b, Binary Multiplication
+- 2, DRAM  and SRAM Design
+- 3, Classic High-Speed Design Examples
+- 4, Classic Low-Power Design Examples
 
 ## 2. 优秀的课程讲解
 这本书因为翻译的问题，中文版其实并不容易理解，幸好网络上有优秀的课程讲解可以参考，可以说自学参考这系列讲解非常有效。   
